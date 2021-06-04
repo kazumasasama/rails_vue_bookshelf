@@ -1,0 +1,15 @@
+{
+  "name": "rails_vue_bookshelf",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "5.4.0",
+    "vue": "^2.6.13",
+    "vue-loader": "^15.9.7",
+    "vue-template-compiler": "^2.6.13",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.2"
+  }
+}
